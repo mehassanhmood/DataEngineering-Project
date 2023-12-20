@@ -8,3 +8,6 @@
   6. Big data analytics platform – Spark
   7. Business Intelligence Dashboard - IBM Cognos Analytics
   8. Data Pipelines - Apache Airflow
+### OLTP Database:
+  - We import the data in MySQL Database
+  - The loaded data along with sql query is retrieved and stored as a 'sql' file.
