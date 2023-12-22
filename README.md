@@ -12,6 +12,7 @@
   - We import the data in MySQL Database
   - The loaded data along with sql query is retrieved and stored as a 'sql' file.
 ### MongoDB:
+  - [NoSQL-MongoDB](https://github.com/mehassanhmood/DataEngineering-Project/tree/main/NoSQL-MongoDB)
   - The data source is a .json file.
   - The first step is connecting database and making a collection named 'electronics'
       -This is done after establishing the connection with MongoAtlas and then running the *db-conn.js* file using mongo shell:
@@ -21,4 +22,5 @@
   - Finally we explore the loaded data using *mongodb-queries.js* file using mongo shell:
       ```load('mongodb-queries.js)```
 ### Staging Data Warehouse:
+  - [DataWarehousing-PostgreSQL](https://github.com/mehassanhmood/DataEngineering-Project/tree/main/DataWarehousing-PostgreSQL)
   - This is for educational purposes only as a Data Warehouse requires reference data source and metadata.
