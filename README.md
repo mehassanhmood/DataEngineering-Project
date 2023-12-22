@@ -35,3 +35,7 @@
     3. Informed Decision-Making with Actionable Insights:
        - Dashboards provide a centralized source for actionable insights.
        - BI facilitates data-driven decisions, fostering accountability and optimizing processes.
+### ETL:
+  - [ETL](https://github.com/mehassanhmood/DataEngineering-Project/tree/main/ETL)
+  - ETL serves as the backbone for integrating diverse data sources, ensuring a unified and consistent view across the organization.
+  - ETL enhances operational efficiency, facilitating timely and accurate data delivery to support informed decision-making in business processes.
