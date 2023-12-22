@@ -2,12 +2,11 @@
 ## Tools and Technologies:
   1. OLTP database - MySQL
   2. NoSql database - MongoDB
-  3. Production Data warehouse – DB2 on Cloud
-  4. Staging Data warehouse – PostgreSQL
-  5. Big data platform - Hadoop
-  6. Big data analytics platform – Spark
-  7. Business Intelligence Dashboard - IBM Cognos Analytics
-  8. Data Pipelines - Apache Airflow
+  3. Staging Data warehouse – PostgreSQL
+  4. Big data platform - Hadoop
+  5. Big data analytics platform – Spark
+  6. Business Intelligence Dashboard - IBM Cognos Analytics and Tableau
+  7. Data Pipelines - Apache Airflow
 ### OLTP Database:
   - We import the data in MySQL Database
   - The loaded data along with sql query is retrieved and stored as a 'sql' file.
