@@ -19,3 +19,5 @@
       ```./import-export.sh```
   - Finally we explore the loaded data using *mongodb-queries.js* file using mongo shell:
       ```load('mongodb-queries.js)```
+### Staging Data Warehouse:
+  - This is for educational purposes only as a Data Warehouse requires reference data source and metadata.
