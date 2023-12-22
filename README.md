@@ -8,6 +8,7 @@
   6. Business Intelligence Dashboard - IBM Cognos Analytics and Tableau
   7. Data Pipelines - Apache Airflow
 ### OLTP Database:
+  - [OLTP](https://github.com/mehassanhmood/DataEngineering-Project/tree/main/OLTP)
   - We import the data in MySQL Database
   - The loaded data along with sql query is retrieved and stored as a 'sql' file.
 ### MongoDB:
