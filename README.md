@@ -24,3 +24,14 @@
 ### Staging Data Warehouse:
   - [DataWarehousing-PostgreSQL](https://github.com/mehassanhmood/DataEngineering-Project/tree/main/DataWarehousing-PostgreSQL)
   - This is for educational purposes only as a Data Warehouse requires reference data source and metadata.
+### Analytics:
+  - [Dashboards-BI](https://github.com/mehassanhmood/DataEngineering-Project/tree/main/Analytics)
+    1. Data Visualization for Understanding:
+       - Dashboards present complex data in visually intuitive formats.
+       - Visualization enhances comprehension, making data accessible to diverse stakeholders.
+    2. Real-Time Monitoring and Proactive Analysis:
+       - Dashboards offer real-time updates on key metrics for prompt decision-making.
+       - BI tools enable proactive problem identification by highlighting deviations and trends.
+    3. Informed Decision-Making with Actionable Insights:
+       - Dashboards provide a centralized source for actionable insights.
+       - BI facilitates data-driven decisions, fostering accountability and optimizing processes.
